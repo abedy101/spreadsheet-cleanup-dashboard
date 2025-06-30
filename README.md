@@ -25,4 +25,4 @@ This tool automates:
 
 ## Files:
 - `cleanup.py`: the data cleaning script
-- `data.xlsx`: messy input example (optional)
+- `data.xlsx`: messy input example 
